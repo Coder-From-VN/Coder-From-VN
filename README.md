@@ -2,6 +2,7 @@
 Hi 👋, I'm Nguyễn Hoàng Chiến<br>A passionate backend/game developer from Việt Nam<br><br>👯 I’m looking to collaborate on 2d game dev project<br>⚡ Fun fact I defeated "Promised Consort Radahn" after the 103rd try.
 
 📫 How to reach me **nhchienfjo@gmail.com**
+
 📫 Linkedin: https://www.linkedin.com/in/nh-chien/
 
 # 💻 Tech Stack:

@@ -25,15 +25,4 @@ A passionate **backend & game developer** from **Việt Nam**
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-From-VN&show_icons=true&theme=dark&hide_border=true)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Coder-From-VN)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-From-VN&layout=compact&theme=dark&hide_border=true)
-
----
 

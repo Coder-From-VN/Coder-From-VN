@@ -29,14 +29,11 @@ A passionate **backend & game developer** from **Việt Nam**
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-From-VN&theme=dark&hide_border=false&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Coder-From-VN&show_icons=true&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Coder-From-VN&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Coder-From-VN&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-From-VN&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-From-VN&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### 🔝 Top Contributed Repositories
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Coder-From-VN&limit=5&theme=dark&combine_all_yearly_contributions=true)

@@ -1,14 +1,16 @@
 # 💫 About Me
 
 Hi 👋, I'm **Nguyễn Hoàng Chiến**  
-🚀 **Backend & Game Developer** from **Việt Nam**
+🚀 **.NET Backend Developer** from Việt Nam
 
-- 👯 Open to collaborating on **2D game development projects**
-- 🎮 Passionate about backend systems, game mechanics, and scalable services
-- ⚡ Fun fact: I defeated **“Promised Consort Radahn” after 103 tries** 💀🔥 (true gamer persistence)
+I specialize in building scalable RESTful APIs using ASP.NET Core and Clean Architecture.
 
-📫 **Email:** nhchienfjo@gmail.com  
-🔗 **LinkedIn:** [nh-chien](https://www.linkedin.com/in/nh-chien/)
+🔹 Strong focus on backend performance, authentication, and database design  
+🔹 Experience with Redis caching, JWT authentication, and SQL optimization  
+🔹 Passionate about writing clean, maintainable, production-ready code  
+
+📫 Email: nhchienfjo@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/nh-chien/
 
 ---
 
